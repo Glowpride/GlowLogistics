@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.glowpride.glowlogistics;
 
 import java.io.File;
 
